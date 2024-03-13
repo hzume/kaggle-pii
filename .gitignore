@@ -23,4 +23,7 @@ notebook/lightning_logs
 wandb/*
 lightning_logs/*
 
+.devcontainer
+
 kaggle.json
+input/*
