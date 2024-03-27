@@ -1433,3 +1433,16 @@ subprocess.TimeoutExpired: Command '['conda', 'env', 'export']' timed out after 
 2024-03-27 08:52:09,301 DEBUG   SenderThread:107438 [sender.py:send_request():406] send_request: stop_status
 2024-03-27 08:52:13,402 DEBUG   HandlerThread:107438 [handler.py:handle_request():146] handle_request: status_report
 2024-03-27 08:52:18,403 DEBUG   HandlerThread:107438 [handler.py:handle_request():146] handle_request: status_report
+2024-03-27 08:52:23,404 DEBUG   HandlerThread:107438 [handler.py:handle_request():146] handle_request: status_report
+2024-03-27 08:52:24,292 DEBUG   HandlerThread:107438 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-27 08:52:24,301 DEBUG   HandlerThread:107438 [handler.py:handle_request():146] handle_request: stop_status
+2024-03-27 08:52:24,301 DEBUG   SenderThread:107438 [sender.py:send_request():406] send_request: stop_status
+2024-03-27 08:52:28,408 DEBUG   HandlerThread:107438 [handler.py:handle_request():146] handle_request: status_report
+2024-03-27 08:52:33,408 DEBUG   HandlerThread:107438 [handler.py:handle_request():146] handle_request: status_report
+2024-03-27 08:52:38,409 DEBUG   HandlerThread:107438 [handler.py:handle_request():146] handle_request: status_report
+2024-03-27 08:52:38,517 DEBUG   SenderThread:107438 [sender.py:send():379] send: stats
+2024-03-27 08:52:39,292 DEBUG   HandlerThread:107438 [handler.py:handle_request():146] handle_request: internal_messages
+2024-03-27 08:52:39,301 DEBUG   HandlerThread:107438 [handler.py:handle_request():146] handle_request: stop_status
+2024-03-27 08:52:39,301 DEBUG   SenderThread:107438 [sender.py:send_request():406] send_request: stop_status
+2024-03-27 08:52:44,345 DEBUG   HandlerThread:107438 [handler.py:handle_request():146] handle_request: status_report
+2024-03-27 08:52:49,358 DEBUG   HandlerThread:107438 [handler.py:handle_request():146] handle_request: status_report

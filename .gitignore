@@ -27,3 +27,5 @@ lightning_logs/*
 
 kaggle.json
 input/*
+**/lightning_logs/*
+**/wandb/*
