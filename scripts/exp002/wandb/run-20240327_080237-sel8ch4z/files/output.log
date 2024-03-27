@@ -1,3 +1,0 @@
-epoch 0 validation loss 2.8252460956573486
-epoch 0 validation scores {'ents_p': 0.0, 'ents_r': 0.0, 'ents_f5': 0.0, 'ents_per_type': {'NAME_STUDENT': {'p': 0.0, 'r': 0.0, 'f5': 0.0}, 'STREET_ADDRESS': {'p': 0.0, 'r': 0.0, 'f5': 0.0}, 'PHONE_NUM': {'p': 0.0, 'r': 0.0, 'f5': 0.0}, 'EMAIL': {'p': 0.0, 'r': 0.0, 'f5': 0.0}, 'ID_NUM': {'p': 0.0, 'r': 0.0, 'f5': 0.0}, 'URL_PERSONAL': {'p': 0.0, 'r': 0.0, 'f5': 0.0}, 'USERNAME': {'p': 0.0, 'r': 0.0, 'f5': 0.0}}}
-epoch 0 validation loss 0.06602268666028976
